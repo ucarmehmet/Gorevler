@@ -25,6 +25,7 @@ public class Task01_arrayOlusturmaDegerGirme {
         Arrays.sort(myArray);
 
         int kbFark = myArray[myArray.length-1] - myArray[0];
-        System.out.println(kbFark);
+        System.out.println("Elemanlarını girdiğiniz "+diziEleman+" elemanlı dizinin \n" +
+                "en büyük elemanı ile en küçük elemanı arasındaki fark "+kbFark+ " olarak bulunmuştur...");
     }
 }
