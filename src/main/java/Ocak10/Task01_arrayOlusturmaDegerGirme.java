@@ -24,9 +24,7 @@ public class Task01_arrayOlusturmaDegerGirme {
         }
         Arrays.sort(myArray);
 
-        for (int elamanDeger : myArray){
-
-        }
-        System.out.println(Arrays.toString(myArray));
+        int kbToplam = myArray[0]+myArray[myArray.length-1];
+        System.out.println(kbToplam);
     }
 }
