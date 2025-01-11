@@ -24,7 +24,7 @@ public class Task01_arrayOlusturmaDegerGirme {
         }
         Arrays.sort(myArray);
 
-        int kbToplam = myArray[0]+myArray[myArray.length-1];
-        System.out.println(kbToplam);
+        int kbFark = myArray[myArray.length-1] - myArray[0];
+        System.out.println(kbFark);
     }
 }
