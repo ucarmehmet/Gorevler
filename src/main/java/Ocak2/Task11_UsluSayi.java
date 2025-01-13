@@ -16,9 +16,9 @@ public class Task11_UsluSayi {
         Scanner input = new Scanner(System.in);
         System.out.println("Lütfen hesaplatmak istediğiniz üslü sayının değerlerini 1.si taban 2.si üstü olacak şekilde giriniz. : ");
 
-        int taban = input.nextInt();
-        int ust = input.nextInt();
-        int toplam = 1;
+        double taban = input.nextDouble();
+        double ust = input.nextDouble();
+        double toplam = 1;
 
         while (taban != 0 && ust != 0){
             for (int i = 1; i <= ust; i++) {
