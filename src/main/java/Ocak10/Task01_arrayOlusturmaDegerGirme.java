@@ -24,9 +24,6 @@ public class Task01_arrayOlusturmaDegerGirme {
         }
         Arrays.sort(myArray);
 
-        for (int elamanDeger : myArray){
-
-        }
-        System.out.println(Arrays.toString(myArray));
+        System.out.println(myArray[myArray.length-1] - myArray[0]);
     }
 }
