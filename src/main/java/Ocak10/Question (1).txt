@@ -1,0 +1,125 @@
+/* TASK :
+	 kullanicin girdigi sayi kadar int array olusturan ve array elemanlarini kullanicidan alan
+	 ve girilen array elemanlarinin en buyuk ile en kucuk elemaninin arasinki farki gosteren
+	 java code create ediniz.
+
+	 */
+/* TASK :
+        multidimensional arrayin iç array lerindeki tüm elemanların toplamını birer birer bulan
+        ve herbir sonucu yeni bir arrayin elemanı yapan ve yeni array i ekrana yazdıran programı yaziniz.
+        input {{10,20,30},{4},{6,7,20}}==> output ={60,4,33}
+
+         */
+
+/* TASK :
+        bir int Array elemanlarinin işaretini(+-)degistiren  bir method yaziniz.
+        input : 1,2,-3,4,-5,-6
+        output :-1,-2,3,-4,5,6
+
+         */
+
+ /*  TASK :
+         *  verilen bir int  Arrayde toplamlari istenen degere esit olan sayi ciftlerini
+         * yazdiran bir method yaziniz int[] arr= {5,7,-6,4,2,15,3,8,1};
+         * int istenenToplam=9;
+         */
+
+  /*  TASK :
+         * write a java program that calculates the average value of array elements
+         * Print elements that are greater than avarage
+         * (dizi elemanlarinin ortalama degerini hesaplayan ve
+         * ortalamadan büyük olan elemanlari yazdıran bir java programi yazin)
+         * input[]= {1,2,3,4,5,6,7}
+         * Output : 4
+         */
+
+  /*TASK :
+  	write a java program to find the second largest number in the array?
+  	Maximum and minimum number in the array?
+  	(Dizideki en büyük ikinci sayyiyi, maksimum ve minimum sayiyi
+  	bulmak için bir java programi yazin)
+
+  	int[] arr = { 100, 10001, -90, 845, 8787, 898, 0, 1, -90 };
+
+  	*/
+
+ /* TASK :
+          * write a method that accepts a 2 dimensional array and finds the max value
+          * (2 boyutlu bir diziyi kabul eden ve maksimum degeri bulan bir method yazin )
+          * Input : {{1,2,-3},{41,55},{-61,-17,80}}
+          * Output : 8
+          */
+
+/*
+		 TASK :
+		 $ ve  £  isareti olanlarin toplamlarini ayri ayri bulup yazdıran java code create ediniz.
+
+        String str = "$1 $23 $134 $2 $7 $24 £32 £40 £2 £65 £4 ";
+        */
+
+/* TASK :
+        given an int array and find the squares of the elements
+        (Verilen bir int dizisi icin elemanlarin karelerini bulun )
+        Example:{2,6,4,5,8,9}
+        output:{4,36,16,25,64,81}
+        */
+
+/*
+         TASK:
+         you have a string "GayetBasarılı"
+         with arrays change it to "CoookBasarılı" and write changing array
+         (String iniz: "GayetBasarılı"  Diziyi "CoookBasarılı" ye cevirin )
+
+         */
+
+/* TASK :
+        arr1 = { {1,2}, {3,4,5}, {6} }  ve  arr2 = { {7,8,9}, {10,11}, {12} }  veriliyor.
+        Bu iki array'in tum elemanlarinin toplamini bulan programi yaziniz.
+         */
+
+
+/* Aşağıdaki multi dimensional array’in iç array’lerindeki tum elemanların
+        toplamını birer birer bulan ve herbir sonucu yeni bir array’in elemanı yapan
+         ve yeni array’i ekrana yazdıran bir program yazınız
+         Ornegin; { {1,2,3}, {4,5}, {6,7} } ==> 1+2+3=6  4+5=9  6+7=13 ==> output: {6, 9, 13}
+        */
+
+ /* TASK :
+         Kullanicidan aldigimiz 8 elemanli arrayin icinde
+        3 e bolunebilen sayi adedini yazdıran java code create ediniz (negatif sayilar da dahil olsun)
+
+         */
+
+ /*  TASK :
+         * Congratulations kelimesini Array yontemlerini kullanarak asagidaki outputu
+         * alin.
+         * input : Congratulations
+         * output: [C, o, n, g, r, a, t, u, l, a, t, i, o, n, s]    sniitilitirgniC --> o ,a ve u harfini i ye donusturun.
+
+         */
+
+/*  TASK :
+        check your array's first and last elements are same
+        (dizinizin ilk ve son elemanlarının ayni olup olmadığını kontrol eden kod yaziniz
+        int []arr={2,6,4,8,2,6,2};
+         */
+
+/*  TASK :
+        Write a method which accepts  string as parameter and prints the sum of digits
+        present in thr given string
+        input :"ade1r4d3"
+        output : 8
+        trick : Use --> Character.isDigit()
+                    --> Integer.valueOf()
+         */
+
+ /* TASK :
+         kullanıcıdan alınan bir  String'deki herbir  karakterin adedini bir array içinde yazdıran bir java programı yazın.
+         String  "Javacilar cook afilli" ise cevap şöyle olmalıdır:
+         { =2, a=3, r=1, c=1, v=1, o=2, f=1, l=2, J=1, i=2}
+         */
+
+ /*Aşağıdaki mutli dimensional array'lerin iç array'lerinde
+         aynı indexe sahip elamanların toplamını yazdıran bir program yazın.
+         arr1[]={{1,2},{3,4,5}{6}}
+        */ arr2[]={{7,8,9},{10,11},{12}}
