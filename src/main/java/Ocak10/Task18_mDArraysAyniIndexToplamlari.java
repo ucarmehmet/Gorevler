@@ -1,6 +1,5 @@
 package Ocak10;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class Task18_mDArraysAyniIndexToplamlari {
